@@ -49,7 +49,7 @@ const init = async () => {
     })
 
 
-  // Get all authos
+  // Get all authors
   server.route({
     method: 'GET',
     path: '/authors',
