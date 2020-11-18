@@ -2,14 +2,10 @@
 
 # root file
 npm install
-
-# Frontend
-npm install
-
-# root file
 run nodemon
 
 # Frontend
+npm install
 run npm start
 
 # Instruction
