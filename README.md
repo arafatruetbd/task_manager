@@ -12,6 +12,6 @@ run nodemon
 # Frontend
 run npm start
 
-#Instruction
+# Instruction
 
 First add member in order to assign task
